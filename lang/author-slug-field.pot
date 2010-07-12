@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Almashroo Development Team
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Author Slug Field 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/author-slug-field\n"
+"POT-Creation-Date: 2009-10-10 04:45+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: author-slug-field.php:40
+msgid "Author Slug"
+msgstr ""
+
+#: author-slug-field.php:42
+msgid "This slug will be used in the URL of the author's page"
+msgstr ""
+
+#: makepot/pomo/sample/app.php:56
+#, php-format
+msgid "Welcome %s!"
+msgstr ""
+
+#: makepot/pomo/sample/app.php:60
+msgid "A string with low priority!"
+msgstr ""
+
+#: makepot/pomo/sample/app.php:62
+msgid "Bye\n"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Author Slug Field"
+msgstr ""
+
+#. #-#-#-#-#  author-slug-field.pot (Author Slug Field 1.0)  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  author-slug-field.pot (Author Slug Field 1.0)  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://www.almashroo.com"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"This plugin will add a new field in the profile page to enable you to edit "
+"the user_nicename field which controls the URL of authors home page"
+msgstr ""
+
+#. Author of an extension
+msgid "Almashroo Development Team"
+msgstr ""

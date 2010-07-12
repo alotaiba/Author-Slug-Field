@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Plugin Author Slug Field\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/author-slug-field\n"
+"POT-Creation-Date: 2009-10-10 04:33+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Abdulrahman Alotaiba <abdulrahman.alotaiba@gmail.com>\n"
+"Language-Team: Almashroo Development Team <contact@almashroo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: Qatar\n"
+
+#: author-slug-field.php:40
+msgid "Author Slug"
+msgstr "اسم الكاتب للرابط"
+
+#: author-slug-field.php:42
+msgid "This slug will be used in the URL of the author's page"
+msgstr "هذا الاسم سيستخدم في رابط صفحة الكاتب، يفضل أن تكتبه بالانجليزية."
+
+#: makepot/pomo/sample/app.php:56
+#, php-format
+msgid "Welcome %s!"
+msgstr "مرحبا %s!"
+
+#: makepot/pomo/sample/app.php:60
+msgid "A string with low priority!"
+msgstr "نص ذو أهمية قليلة!"
+
+#: makepot/pomo/sample/app.php:62
+msgid "Bye\n"
+msgstr "مع السلامة\n"
+
+#. Plugin Name of an extension
+msgid "Author Slug Field"
+msgstr "حقل اسم الكاتب للرابط"
+
+#. #-#-#-#-#  author-slug-field.pot (Author Slug Field 1.0)  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  author-slug-field.pot (Author Slug Field 1.0)  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://www.almashroo.com"
+msgstr "http://www.almashroo.com"
+
+#. Description of an extension
+msgid "This plugin will add a new field in the profile page to enable you to edit the user_nicename field which controls the URL of authors home page"
+msgstr "هذه الإضافة ستضيف حقل جديد في صفحة تحرير البيانات الشخصية مما سيمكنك من تعديل حقل user_nicename والذي يتحكم برابط صفحة الكتاب"
+
+#. Author of an extension
+msgid "Almashroo Development Team"
+msgstr "فريق تطوير المشروع"
+
